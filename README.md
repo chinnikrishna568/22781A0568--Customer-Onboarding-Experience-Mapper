@@ -22,17 +22,6 @@ Language	Java (JDK 17 or higher)
 Database	MongoDB (local or Atlas)
 Libraries	bson-4.11.0.jar, mongodb-driver-core-4.11.0.jar, mongodb-driver-sync-4.11.0.jar
 Type	Console-based Application
-📂 Folder Structure
-CustomerOnboardingExperienceMapper/
-│
-├── CustomerOnboardingExperienceMapper.java     # Main Java source file
-├── CustomerOnboardingExperienceMapper.class    # Compiled class
-├── CLASS PATH EXECUTION AND COMPILE.txt        # Contains classpath & compile instructions
-├── bson-4.11.0.jar                             # MongoDB dependency
-├── mongodb-driver-core-4.11.0.jar
-├── mongodb-driver-sync-4.11.0.jar
-└── README.md                                   # You are here
-
 ⚙️ Setup & Execution
 🖥️ Prerequisites
 
